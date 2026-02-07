@@ -1,0 +1,21 @@
+body{
+    background-color: blueviolet;
+}
+
+h1{
+    color: red;
+}
+
+.meu-botao {
+    background-color: #faff69;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer; 
+    border-radius: 50px;
+  }
+
+  .galeria{
+    border: 2px solid black;
+    background-color: wheat;
+  }
